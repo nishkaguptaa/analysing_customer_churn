@@ -20,8 +20,7 @@ This project investigates a dataset of 6,687 customers to diagnose the drivers b
 4. Sorted Pareto-style Charts: To rank primary churn drivers.
 
 📁**Repository Structure**
-├── Data + Dashboard
-│   └── Analysing Customer Churn.xlsx
+├── Data + Dashboard (Analysing Customer Churn.xlsx)
 └── README.md
 
 🚀**Strategic Recommendations**
